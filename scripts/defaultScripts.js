@@ -16,17 +16,10 @@ var DEFAULT_SCRIPTS_COMBINED = [
     "system/away.js",
     "system/audio.js",
     "system/hmd.js",
-    "system/menu.js",
-    "system/bubble.js",
-    "system/snapshot.js",
-    "system/help.js",
-    "system/pal.js", // "system/mod.js", // older UX, if you prefer
-    "system/makeUserConnection.js",
     "system/tablet-goto.js",
     "system/marketplaces/marketplaces.js",
     "system/edit.js",
     "system/notifications.js",
-    "system/dialTone.js",
     "system/firstPersonHMD.js",
     "system/tablet-ui/tabletUI.js"
 ];
